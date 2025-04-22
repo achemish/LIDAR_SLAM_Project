@@ -1,7 +1,7 @@
 # LIDAR_SLAM_Project
 Public repository for showcasing a coursework project (from my private repo) with all course identifying information scrubbed. I've uploaded the code here to serve as a code sample, and will expand this page in the future with a write up and figures of the SLAM results.
 
-# Code Overview/Instructions
+## Code Overview/Instructions
 
 Code Files (6) :
 - main.py (runs project parts 1 through 4)
